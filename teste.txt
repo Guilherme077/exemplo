@@ -3,3 +3,5 @@ Bom dia
 Este é um texto
 
 mais texto
+
+Preço: 5000
