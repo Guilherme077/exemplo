@@ -3,3 +3,5 @@ Bom dia
 Este é um texto
 
 mais texto
+
+Preço de teste 6000
